@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{%- block content %}
+<div class="blog-post">
+  <h1>{{ title }}</h1>
+  {{ content | indent(2) | safe }}
+  <p class="footer">Ivan Echevarria - {{ date }}</p>
+</div>
+{%- endblock %}
