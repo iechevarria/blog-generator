@@ -9,12 +9,14 @@
 <body>
   <div class="wrapper" id="main-wrapper">
     <div class="nav">
+    {%- block nav %}
       <a class="home" href="index.html">Ivan Echevarria</a>
       <div class="spacer"></div>
       <a href="photos/index.html">photos</a>
       <a href="code/index.html">projects</a>
       <a href="blog/index.html">writing</a>
       <a href="about.html">about</a>
+    {%- endblock %}
     </div>
     <div class="content">
       {%- filter indent(6) %}
