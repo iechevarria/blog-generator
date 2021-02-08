@@ -3,6 +3,6 @@
 <div class="blog-post">
   <h1>{{ title }}</h1>
   {{ content | indent(2) | safe }}
-  <p class="footer">Ivan Echevarria - {{ date }}</p>
+  <p class="footer">Ivan Echevarria - {{ date.strftime("%B %-d, %Y") }}</p>
 </div>
 {%- endblock %}

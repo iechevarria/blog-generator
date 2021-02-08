@@ -1,6 +1,6 @@
 ---
 title: November / December 2020
-date: 2020-01-01
+date: 2021-01-01
 ---
 
 It’s a new year! I skipped last month’s update because I didn’t really do anything. The holiday break has been great, though, and I’ve been listening / reading / watching a lot.

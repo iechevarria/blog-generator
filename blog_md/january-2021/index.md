@@ -1,6 +1,6 @@
 ---
 title: January 2021
-date: 2020-02-01
+date: 2021-02-01
 ---
 
 January was busy and felt long, but in a good sort of way - I read a fair bit and learned a ton.

@@ -1,5 +1,5 @@
 ---
-title: "How to Do Nothing: Resisting the Attention Economy"
+title: "How to Do Nothing"
 author: Jenny Odell
 year: 2019
 isbn: 9781612197494
