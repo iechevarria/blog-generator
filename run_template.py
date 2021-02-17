@@ -24,6 +24,8 @@ def generate_blog(input_dir="blog_md", output_dir="blog"):
 
     _, post_dirs, _ = next(os.walk(input_dir))
     for post_dir in post_dirs:
+        if not os.path.exists(os.path.join(output_dir, post_dir)):
+            os.makedirs(os.path.join(output_dir, post_dir))
         # copy non-post directory contents over
         _, _, files = next(os.walk(os.path.join(input_dir, post_dir)))
         relevant_files = [f for f in files if f != "index.md"]
