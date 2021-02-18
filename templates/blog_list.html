@@ -1,14 +1,4 @@
 {% extends "base.html" %}
-{%- block nav %}
-{%- filter indent(6) %}
-<a class="home" href="index.html">Ivan Echevarria</a>
-<div class="spacer"></div>
-<a href="photos/index.html">photos</a>
-<a href="code/index.html">projects</a>
-<a style="color: #f00;">writing</a>
-<a href="about.html">about</a>
-{%- endfilter %}
-{%- endblock %}
 {%- block content %}
 {%- for post in posts %}
 <div class="post-info">

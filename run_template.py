@@ -57,7 +57,7 @@ def generate_blog(
     )
     with open(os.path.join(dest_dir, source_dir, "index.html"), "w+") as f:
         f.write(BLOG_LIST_TEMPLATE.render(
-            posts=post_metas, base_href="../", title="writing"
+            posts=post_metas, base_href="../", title="writing", page="blog_list"
         ))
 
 
@@ -99,7 +99,7 @@ def generate_reading(
     )
     with open(os.path.join(dest_dir, source_dir, "index.html"), "w+") as f:
         f.write(BOOK_LIST_TEMPLATE.render(
-            posts=book_metas, base_href="../", title="reading"
+            posts=book_metas, base_href="../", title="reading", page="book_list"
         ))
 
 
