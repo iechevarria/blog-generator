@@ -40,8 +40,8 @@ def generate_blog(
         # convert markdown to html
         post = frontmatter.load(os.path.join(source_dir, post_dir, "index.md"))
         html = markdown(post.content)
-        local_path = os.path.join(source_dir, post_dir, "index.html")
-        with open(os.path.join(dest_dir, local_path), "w+") as f:
+        local_path = os.path.join(source_dir, post_dir, "index.html").replace("\\", "/")
+        with open(os.path.join(dest_dir, local_path), "w+", encoding="utf-8") as f:
             f.write(BLOG_TEMPLATE.render(
                 content=html, base_href="../../", **post.metadata)
             )
@@ -55,7 +55,7 @@ def generate_blog(
     post_metas = sorted(
         post_metas, key=lambda x: x["date"], reverse=True
     )
-    with open(os.path.join(dest_dir, source_dir, "index.html"), "w+") as f:
+    with open(os.path.join(dest_dir, source_dir, "index.html"), "w+", encoding="utf-8") as f:
         f.write(BLOG_LIST_TEMPLATE.render(
             posts=post_metas, base_href="../", title="writing", page="blog_list"
         ))
@@ -77,7 +77,7 @@ def generate_reading(
             dest_dir, source_dir, f"{book.split('.')[0]}.html"
         )
         os.makedirs(os.path.dirname(out_path), exist_ok=True)
-        with open(out_path, "w+") as f:
+        with open(out_path, "w+", encoding="utf-8") as f:
             f.write(BOOK_TEMPLATE.render(
                 content=html, base_href="../", **post.metadata
             ))
