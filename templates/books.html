@@ -2,7 +2,7 @@
 {%- block content %}
 <div class="blog-post">
   <h1>{{ title }} by {{ author }}</h1>
-  <h4>Rating: {{ "⭑" * rating }}</h4>
+  <h4>Rating: {{ "★" * rating }}</h4>
   {{ content | indent(2) | safe }}
 </div>
 {%- endblock %}
