@@ -1,5 +1,5 @@
 ---
-title: How to disable web search results in Windows 10 (as of 2021)
+title: How to disable web results in Windows 10 search (as of 2021)
 date: 2021-04-25
 ---
 
@@ -21,6 +21,5 @@ This method from [a recent reply](https://www.tenforums.com/tutorials/25016-turn
     <li>Either (1) restart the File Explorer process or (2) restart your computer</li>
     <li>Your Windows search bar should now be free of web/Bing search results</li>
 </ol>
-
 
 ![No web results in the search bar now](blog/how-to-disable-windows-10-web-search-results-2021/no-web-results.png)

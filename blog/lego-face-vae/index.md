@@ -1,5 +1,5 @@
 ---
-title: Variational autoencoder for Lego faces
+title: Creating and morphing Lego faces with neural networks
 date: 2020-02-03
 ---
 

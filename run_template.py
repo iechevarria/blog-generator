@@ -105,4 +105,5 @@ def generate_reading(
 
 if __name__ == "__main__":
     generate_blog()
-    generate_reading()
+    # not yet lol
+    # generate_reading()
