@@ -13,7 +13,7 @@ Big month! I finished my batch at The Recurse Center and will be starting a new 
 
 [An Internet for the People](https://press.princeton.edu/books/hardcover/9780691188904/an-internet-for-the-people) is an interesting read and fun book about craigslist. I love craigslist, and this is the first book that’s been published about it. Interviews with early employees and Craig Newmark himself are especially great. I do have some quibbles–Lingel talks about how some craigslist transactions subvert capitalist logic but argues this point imprecisely. It’s a bummer because the pieces are pretty much all there for a stronger case. I’ll write about this in the near future.
 
-That was the only book I finished in March. I’ve been slogging through Michel Aglietta’s [Money: 5000 Years of Debt and Power](https://www.versobooks.com/blogs/4111-money-5-000-years-of-debt-and-power), and I’m about 3/4 of the way through it. I still don’t know how I feel about it.
+That was the only book I finished in March. I’ve been slogging through Michel Aglietta’s [Money: 5000 Years of Debt and Power](https://www.versobooks.com/books/2738-money), and I’m about 3/4 of the way through it. I still don’t know how I feel about it.
 
 #### Reading (articles)
 
@@ -88,7 +88,7 @@ What I like most about it, though, is the need for rapid planning, decision maki
 
 #### Listening
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3630820826/size=small/bgcol=ffffff/linkcol=0687f5/track=1539114098/transparent=true/" seamless><a href="https://plzmakeitruins.bandcamp.com/album/like-a-good-old-friend">Like A Good Old Friend by Vegyn</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" class="bandcamp-player" src="https://bandcamp.com/EmbeddedPlayer/album=3630820826/size=small/bgcol=ffffff/linkcol=0687f5/track=1539114098/transparent=true/" seamless><a href="https://plzmakeitruins.bandcamp.com/album/like-a-good-old-friend">Like A Good Old Friend by Vegyn</a></iframe>
 
 Vegyn put some new music out. 
 

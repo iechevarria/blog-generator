@@ -51,5 +51,5 @@ As far as the actual discussion of internet advertising goes, I’d recommend th
 
 #### Here's a song!
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3555538801/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://00000ooooo.bandcamp.com/track/--6"≯ ̡ ҉ ҉.·๑ඕั ҉ ̸ ̡ ҉ ҉.·๑ඕั ҉ ̸ ̡ ҉ ҉.·๑ඕั ҉ ̸ ̡ ҉ ҉.·๑ඕั ҉ ̸ ̡ ҉ ҉.·๑ඕั ҉ ̸ ̡ ҉ ҉.·๑ by ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" class="bandcamp-player" src="https://bandcamp.com/EmbeddedPlayer/track=3555538801/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://00000ooooo.bandcamp.com/track/--6"≯ ̡ ҉ ҉.·๑ඕั ҉ ̸ ̡ ҉ ҉.·๑ඕั ҉ ̸ ̡ ҉ ҉.·๑ඕั ҉ ̸ ̡ ҉ ҉.·๑ඕั ҉ ̸ ̡ ҉ ҉.·๑ඕั ҉ ̸ ̡ ҉ ҉.·๑ by ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ</a></iframe>
 My most-listened song in 2020 was this one from [Four Tet](http://www.fourtet.net/)'s totally illegible side project. Yes, the characters are all supposed to be wingdings.
