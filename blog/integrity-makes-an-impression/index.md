@@ -1,5 +1,5 @@
 ---
-title: Integrity make an impression
+title: Integrity makes an impression
 date: 2021-11-07
 ---
 
