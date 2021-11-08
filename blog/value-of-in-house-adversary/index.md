@@ -7,7 +7,7 @@ _This is written with the assumption that you know what a market maker is and wh
 
 _If I should make any corrections to this post, please reach out._
 
-#### Making versus taking
+#### Market making versus liquidity taking
 
 High frequency trading (HFT) firms run strategies that broadly fall into two categories: making and taking. Market making strategies add bids and asks to trading venues’ order books, making it possible for other market participants to quickly convert a security into cash and vice-versa. Conversely, liquidity-taking strategies execute on existing bids or asks, removing them from order books.
 
