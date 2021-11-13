@@ -13,7 +13,7 @@ October was my second month working at a large tech company, and it's still good
 "There is always a subjective aspect in landscape art, something in the picture that tells us as much about who is behind the camera as about what is in front of it."
 </p>
 
-I did my annual re-read of Robert Adams's [Beauty in Photography](https://aperture.org/books/beauty-in-photography/) in October. It's short – just eight brief essays in fewer than 100 pages of text – but it is so full of insight. It's probably the book that means the most to me. I first read it at an important time, and it was enormously clarifying for my own work. In particular, Adams's argument that great landscape photographs must have an autobiographical element led me to my best photographs.
+I did my annual re-read of Robert Adams's [Beauty in Photography](https://aperture.org/books/beauty-in-photography/) in October. It's short – just eight brief essays in fewer than 100 pages of text – but it is so full of insight. It's probably the book that means the most to me. I first read it at an important time, and it was enormously clarifying for my own work. In particular, Adams's insistence that great landscape photographs must have an autobiographical element led me to my best photographs.
 
 #### Watching
 
