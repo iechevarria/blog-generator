@@ -9,7 +9,7 @@ _High-resolution scans of this image are available at the [Library of Congress w
 
 This photograph shows men making pig iron at a place called the Iroquois smelter in Chicago sometime between 1890 and 1901. Molten iron was poured via a central channel to fill the small, regular trenches on the ground to form ingots. Once cooled, the ingots were broken apart from one another and readied for transport or storage.
 
-The smelter's brick structure has arches that are graceful and church-like, and the beams of light flowing through smoke suggest burning incense. The beauty is undeniable.
+The smelter's brick structure has church-like arches, and the beams of light flowing through smoke suggest burning incense. The beauty is undeniable.
 
 But this image also contains evil. The same smoke that gives form to light was undoubtedly life-shortening for workers at the smelter.
 
