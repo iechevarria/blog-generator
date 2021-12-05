@@ -10,7 +10,7 @@ notes: https://github.com/iechevarria/reading-notes/blob/master/2020/capital-and
 
 Capital and Time is about uncertainty, speculation, and why the most common critiques of neoliberalism are flawed. I picked this book up because [the veb account](https://twitter.com/tragicbios) recommended it in [a thread](https://twitter.com/tragicbios/status/1241073957970862086) about the nature of money.
 
-I found the writing frustrating. There are plenty of fresh ideas in here - that speculation is the natural result of pervasive uncertainty; that valuation is a performance that can be self-fulfilling; that economic power often doesn't come from knowing the truth but can instead come from being known and increasing the world's exposure to your risk - but so many of them are buried in turgid prose.
+I found the writing frustrating. There are plenty of fresh ideas in here - that speculation is the natural result of pervasive uncertainty; that valuation is a performance that can be self-fulfilling; that economic power often doesn't come from knowing the truth but can instead come from being known and increasing the world's exposure to your risk - but so many of them are buried in inelegant prose.
 
 Here are some of the ideas I found most interesting:
 
