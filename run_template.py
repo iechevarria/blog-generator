@@ -15,7 +15,7 @@ BLOG_TEMPLATE = ENV.get_template("blog.html")
 BLOG_LIST_TEMPLATE = ENV.get_template("blog_list.html")
 BOOK_TEMPLATE = ENV.get_template("books.html")
 BOOK_LIST_TEMPLATE = ENV.get_template("book_list.html")
-
+HOME_TEMPLATE = ENV.get_template("home.html")
 
 def generate_blog(
     source_dir="blog", dest_dir="../iechevarria.github.io"
@@ -60,6 +60,8 @@ def generate_blog(
             posts=post_metas, base_href="../", title="writing", page="blog_list"
         ))
 
+    return post_metas
+
 
 def generate_reading(
     source_dir="reading", dest_dir="../iechevarria.github.io"
@@ -102,7 +104,26 @@ def generate_reading(
             posts=book_metas, base_href="../", title="reading", page="book_list"
         ))
 
+    return book_metas
+
+
+def generate_home(
+    post_metas, book_metas, n=10, dest_dir="../iechevarria.github.io"
+):
+    """Make home page"""
+    
+    posts = post_metas[:10]
+    books = book_metas[:10]
+
+    with open(os.path.join(dest_dir, "index.html"), "w+") as f:
+        f.write(HOME_TEMPLATE.render(
+            posts=posts, books=books, title="home", page="home"
+        ))
+
+    return book_metas
+
 
 if __name__ == "__main__":
-    generate_blog()
-    generate_reading()
+    post_metas = generate_blog()
+    book_metas = generate_reading()
+    generate_home(post_metas, book_metas)
