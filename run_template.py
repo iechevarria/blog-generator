@@ -115,9 +115,12 @@ def generate_home(
     posts = post_metas[:10]
     books = book_metas[:10]
 
+    n_posts = len(post_metas[10:])
+    n_books = len(book_metas[10:])
+
     with open(os.path.join(dest_dir, "index.html"), "w+") as f:
         f.write(HOME_TEMPLATE.render(
-            posts=posts, books=books, title="home", page="home"
+            posts=posts, books=books, n_posts=n_posts, title="home", page="home"
         ))
 
     return book_metas

@@ -3,24 +3,28 @@
 
 <img src="img/home/arizona.jpg" alt="Arizona">
 <br>
+<br>
 <h4>news:</h4>
 <br>
 <p>
 I'm a few months into <a href="https://bradfieldcs.com/">Bradfield School of Computer Science</a>'s <a href="https://bradfieldcs.com/csi/">Computer Science Intensive</a>. The courses at Bradfield are the best I've ever taken. If you're seeking mastery in computer science, this is the place for you.
 </p>
 <br>
+<br>
 
-<h4>recent writing (more <a href="blog/index.html">here</a>):</h4>
+<p><b>recent writing</b> (<a href="blog/index.html">more here</a>)<b>:</b></p>
 <br>
 <div class="post-list">
 {%- for post in posts %}
   <a class="link" href="{{ post.url }}">{{ post.title }}</a>
   <div>{{ post.date }}</div>
 {%- endfor %}
+<a href="blog/index.html"><i>{{ n_posts }} more ...</i></a>
 </div>
 <br>
+<br>
 
-<h4>recent reading (more <a href="reading/index.html">here</a>):</h4>
+<p><b>recent reading</b> (<a href="reading/index.html">more here</a>)<b>:</b></p>
 <br>
 <div class="book-list">
 {%- for book in books %}
@@ -29,6 +33,7 @@ I'm a few months into <a href="https://bradfieldcs.com/">Bradfield School of Com
   <div class="date">{{ book.date }}</div>
   <div>{{ book.rating * "<div class=\"star\"></div>" }}</div>
 {%- endfor %}
+<a href="reading/index.html"><i>more ...</i></a>
 </div>
 
 {%- endblock %}
