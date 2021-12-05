@@ -19,7 +19,7 @@ I'm a few months into <a href="https://bradfieldcs.com/">Bradfield School of Com
   <a class="link" href="{{ post.url }}">{{ post.title }}</a>
   <div>{{ post.date }}</div>
 {%- endfor %}
-<a href="blog/index.html"><i>{{ n_posts }} more ...</i></a>
+<a style="margin-top: 0.5em" href="blog/index.html"><i>more ...</i></a>
 </div>
 <br>
 <br>
@@ -33,7 +33,7 @@ I'm a few months into <a href="https://bradfieldcs.com/">Bradfield School of Com
   <div class="date">{{ book.date }}</div>
   <div>{{ book.rating * "<div class=\"star\"></div>" }}</div>
 {%- endfor %}
-<a href="reading/index.html"><i>more ...</i></a>
+<a style="margin-top: 0.5em" href="reading/index.html"><i>more ...</i></a>
 </div>
 
 {%- endblock %}
