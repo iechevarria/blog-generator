@@ -3,7 +3,7 @@
 <div class="post-list">
 {%- for post in posts %}
   <a class="link" href="{{ post.url }}">{{ post.title }}</a>
-  <div>{{ post.date }}</div>
+  <div class="date">{{ post.date }}</div>
 {%- endfor %}
 </div>
 {%- endblock %}

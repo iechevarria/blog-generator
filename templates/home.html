@@ -17,7 +17,7 @@ I'm a few months into <a href="https://bradfieldcs.com/">Bradfield School of Com
 <div class="post-list">
 {%- for post in posts %}
   <a class="link" href="{{ post.url }}">{{ post.title }}</a>
-  <div>{{ post.date }}</div>
+  <div class="date">{{ post.date }}</div>
 {%- endfor %}
 <a style="margin-top: 0.5em" href="blog/index.html"><i>more ...</i></a>
 </div>
@@ -31,7 +31,7 @@ I'm a few months into <a href="https://bradfieldcs.com/">Bradfield School of Com
   <a class="link" href="{{ book.url }}">{{ book.title }}</a>
   <div class="author">{{ book.author }}</div>
   <div class="date">{{ book.date }}</div>
-  <div>{{ book.rating * "<div class=\"star\"></div>" }}</div>
+  <div class="rating">{{ book.rating * "<div class=\"star\"></div>" }}</div>
 {%- endfor %}
 <a style="margin-top: 0.5em" href="reading/index.html"><i>more ...</i></a>
 </div>

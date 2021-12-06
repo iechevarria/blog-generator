@@ -36,19 +36,15 @@ Money, unlike traditional sovereignty, has little inherent authority. But its in
 
 #### Neoliberal anxiety
 
-There's an exceptional few pages where Konings describes the anxiety of the neoliberal subject.
+There are a few exceptional pages where Konings describes the anxiety of the neoliberal subject.
 
 (I thought it was pretty good when I first read it, but then the next day, one of my girlfriend's friends came over and she personified this description perfectly. It was shocking.)
 
-Modern narcissism isn't driven by selfishness but by the anxiety inherent to modern social life. There are so many choices, and this causes insecurity. With an uncertain sense of self, the subject is unable to get validation from within, and they try to secure external validation. 
+Modern narcissism isn't driven by selfishness but by the anxiety inherent to modern social life. There are so many possible choices, so much complexity, and this causes insecurity.
 
-The complexity of modern life means the neoliberal subject doesn't know what's causing their problems so they often double down on existing routines and meanings that promise relief.
+With an uncertain sense of self, the subject is unable to get validation from within, and so they try to secure external validation. They often double down on existing routines that promise relief. "Re-engaging the very norms, symbols, and institutions that are at the root of its problems, the subject dampens the intensity of its anxiety by sustaining the mechanisms that produce it." The subject operates with the logic of wounded attachment.
 
-The subject recognizes their chronic dissatisfaction, but they keep trying to secure external validation. "Re-engaging the very norms, symbols, and institutions that are at the root of its problems, the subject dampens the intensity of its anxiety by sustaining the mechanisms that produce it." They operate with the logic of wounded attachment.
-
-Money has a "distinctly secular yet highly spiritual promise is that we can have a better version of our current self, our present attachments and identity, without the anxiety." Money is always a problem and solution to a problem. But there's nothing money can't buy, so no amount is enough.
-
-When the neoliberal subject feels anxiety about money, they move to get more; they don't reconsider their relationship to money, they intensify it.
+Money has a "distinctly secular yet highly spiritual promise is that we can have a better version of our current self, our present attachments and identity, without the anxiety." Money is always a problem and solution to a problem. When the neoliberal subject feels anxiety about money, they move to get more; they don't reconsider their relationship to money, they intensify it. But there's nothing money can't buy, so no amount is enough.
 
 #### Neoliberal sadism
 

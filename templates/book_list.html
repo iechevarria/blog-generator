@@ -5,7 +5,7 @@
   <a class="link" href="{{ post.url }}">{{ post.title }}</a>
   <div class="author">{{ post.author }}</div>
   <div class="date">{{ post.date }}</div>
-  <div>{{ post.rating * "<div class=\"star\"></div>" }}</div>
+  <div class="rating">{{ post.rating * "<div class=\"star\"></div>" }}</div>
 {%- endfor %}
 </div>
 {%- endblock %}
