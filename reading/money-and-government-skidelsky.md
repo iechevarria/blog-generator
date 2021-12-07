@@ -8,7 +8,7 @@ date: 2020-06-15
 notes: https://github.com/iechevarria/reading-notes/blob/master/2020/money-and-government-skidelslky-2018.md
 ---
 
-Money and Government is a history of economic thought with an emphasis on how ideology affects economic theory. If anyone's qualified to write this book, it's Skidelsky: he's an economic historian best known for his enormous three-volume biography of John Maynard Keynes.
+_Money and Government_ is a history of economic thought with an emphasis on how ideology affects economic theory. If anyone's qualified to write this book, it's Skidelsky: he's an economic historian best known for his enormous three-volume biography of John Maynard Keynes.
 
 This was a great read. The core information is solid, and I learned a lot about the Great Financial Crisis in particular. Skidelsky is also opinionated, and he doesn't pull punches. He calls a quote from Milton Friedman disengenuous; he says the claim that central banks saved the global economy is "sloppy journalism"; he writes that behavioral economics's insights are surprising "only to those who have literally taken leave of their senses." It's fun.
 

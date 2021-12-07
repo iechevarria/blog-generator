@@ -8,7 +8,7 @@ date: 2020-09-15
 notes: https://github.com/iechevarria/reading-notes/blob/master/2020/the-emotional-logic-of-capitalism-konings-2015.md
 ---
 
-The Emotional Logic of Capitalism is the best book I read in 2020.
+_The Emotional Logic of Capitalism_ is the best book I read in 2020.
 
 It's a solid critique of the most common progressive critiques of capitalism. I went in totally blind to this book, and it surprised me. The first half focuses on semiotics, theology, and pre-modern understandings of “economy” – not at all what I expected. It works – well.
 
