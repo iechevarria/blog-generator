@@ -1,5 +1,5 @@
 ---
-title: The value of an in-house adversary
+title: The value of running your adversary's strategy in-house
 date: 2021-11-06
 ---
 
