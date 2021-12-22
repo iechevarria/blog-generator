@@ -50,4 +50,4 @@ Money has a "distinctly secular yet highly spiritual promise is that we can have
 
 Progressives fail to understand that a lot of neoliberalism's appeal comes from its sadistic streak. The neoliberal subject has chronic anxiety, and misery loves company. Neoliberalism "not only instructed people to tighten their belts but also gave them permission to impose such discipline on others, so creating new outlets for the modern subject's discontent."
 
-"This sadistic streak of neoliberal financial governmantality is richly present in the contemporary self-help eothos, and especially in programs like the 'Dr. Phil' show ... Austerity, toughness to self and others, appears as the road to redemption."
+"This sadistic streak of neoliberal financial governmantality is richly present in the contemporary self-help ethos, and especially in programs like the 'Dr. Phil' show ... Austerity, toughness to self and others, appears as the road to redemption."
