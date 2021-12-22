@@ -5,7 +5,7 @@ date: 2021-12-21
 
 Here’s a little thought experiment: how would you transmit 8-bit bytes via messages that let you encode only 7 bits at a time?
 
-The engineers at [DigiTech](https://www.digitech.com/) handled this exact problem on their DHP-55 effects unit. They needed to transmit 8-bit bytes to the unit via a MIDI SYSEX message. Every byte in a SYSEX message must have its most significant bit set to 0, so there are only 7 bits available per byte for sending data.
+The engineers at [DigiTech](https://www.digitech.com/) handled this exact problem on their DHP-55 effects unit in the 1990s. They needed to transmit 8-bit bytes to the unit via a MIDI SYSEX message. Every byte in a SYSEX message must have its most significant bit set to 0, so there are only 7 bits available per byte for sending data.
 
 This is how they describe their approach in the DHP-55 manual:
 
