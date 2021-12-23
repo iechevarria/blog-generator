@@ -10,7 +10,7 @@ notes: https://github.com/iechevarria/reading-notes/blob/master/2020/the-new-lom
 
 This short book discusses the history of central banking in the United States and how the role of the Federal Reserve has changed. Mehrling comes at the subject from somewhere between finance and economics, and his main concern seems to be describing money as it operates in reality, not in theory. The writing is straightforward, but _The New Lombard Street_ is dense. I think it’s great, but I’d only recommend it if you have a strong interest in central banking and the finer details of the financial crisis of 2007-2008.
 
-Here are some ideas I found interesting:
+I want to note that, I'm not writing up the most central theses but instead a few interesting nuggets:
 
 #### Central banking and bubbles
 
@@ -24,7 +24,7 @@ Money market mutual funds started doing bank-like activities but only slightly d
 
 "[Any] new system must grow organically out of the old one. We are not going to start from scratch, so our reforms had better engage with the system as it is, not as it was or as we might wish it to be in some ideal world."
 
-#### Shadow banking is vulnerable to runs
+#### Shadow banking is inherently vulnerable to runs
 
 "Since the role of deposit insurance is to prevent bank runs, it was not really surprising that the uninsured shadow banking system turned out to be vulnerable to runs."
 
