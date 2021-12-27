@@ -1,5 +1,5 @@
 ---
-title: Consistent daily price oscillations on the Steam Community Market
+title: Consistent daily price pattern on the Steam Community Market
 date: 2021-12-26
 ---
 
