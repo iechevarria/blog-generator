@@ -1,6 +1,10 @@
 import os
+import re
 import shutil
 from collections import namedtuple
+from datetime import datetime
+from email import utils
+from xml.sax.saxutils import escape as xml_escape
 
 import frontmatter
 from markdown import markdown
@@ -16,6 +20,7 @@ BLOG_LIST_TEMPLATE = ENV.get_template("blog_list.html")
 BOOK_TEMPLATE = ENV.get_template("books.html")
 BOOK_LIST_TEMPLATE = ENV.get_template("book_list.html")
 HOME_TEMPLATE = ENV.get_template("home.html")
+RSS_TEMPLATE = ENV.get_template("rss.xml")
 
 def generate_blog(
     source_dir="blog", dest_dir="../iechevarria.github.io"
@@ -48,7 +53,7 @@ def generate_blog(
 
         # get metadata from post
         post_metas.append(
-            {"title": post["title"], "url": local_path, "date": post["date"]}
+            {"title": post["title"], "url": local_path, "date": post["date"], "content": html}
         )
 
     # reverse chronological order for blog index page
@@ -123,7 +128,33 @@ def generate_home(
     return book_metas
 
 
+def generate_rss(post_metas, dest_dir="../iechevarria.github.io"):
+    """Make RSS"""
+    posts = post_metas[:10]
+    for post in posts:
+        d = post["date"]
+        post["pub_date"] = utils.format_datetime(datetime(d.year, d.month, d.day))
+
+        # make relative paths absolute for RSS        
+        hrefs = (
+            re.findall("href=[\"\'](.*?)[\"\']", post["content"])
+            + re.findall("src=[\"\'](.*?)[\"\']", post["content"])
+        )
+        replace_map = {}
+        for href in hrefs:
+            if not href.startswith("http"):
+                replace_map[href] = "https://www.echevarria.io/" + href
+        for k, v in replace_map.items():
+            post["content"] = post["content"].replace(k, v)
+
+        post["content"] = xml_escape(post["content"])
+
+    with open(os.path.join(dest_dir, "rss.xml"), "w+") as f:
+        f.write(RSS_TEMPLATE.render(posts=posts))
+
+
 if __name__ == "__main__":
     post_metas = generate_blog()
     book_metas = generate_reading()
     generate_home(post_metas, book_metas)
+    generate_rss(post_metas)
