@@ -6,6 +6,13 @@ date: 2022-01-02
 ![Comparison of HBO Max and Hulu ](blog/the-matrix-looks-different-hulu-hbo-max/split.jpg)
 <div class="img-note">Hulu on the left, HBO Max on the right</div>
 
+<p class="note">
+<b>Hulu stopped streaming <i>The Matrix</i> on January 1, 2022.</b>
+<br>
+<br>
+It seems like a lot of you are searching "the matrix hulu" and ending up on this page. This was not my goal. But this is what happened, so I figured I'd give you the information you're actually looking for.
+</p>
+
 HBO Max has _The Matrix_ (1999) available for streaming, and Hulu did until a day or two ago, but their respective versions look very different.
 
 _The Matrix_ already has a history of extreme variation across versions. The initial DVD release had a neutral-warm color palette while the 2008 Blu-ray added a heavy green cast to match the sequels. _The Matrix_'s 2018 UHD Blu-ray release apparently hews closer to how the film looked in theaters with a more purple-blue tint [[1]](blog/the-matrix-looks-different-hulu-hbo-max/index.html#note).
