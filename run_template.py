@@ -58,7 +58,7 @@ def generate_blog(
 
     # reverse chronological order for blog index page
     post_metas = sorted(
-        post_metas, key=lambda x: x["date"], reverse=True
+        post_metas, key=lambda x: (x["date"], x["title"]), reverse=True
     )
     with open(os.path.join(dest_dir, source_dir, "index.html"), "w+", encoding="utf-8") as f:
         f.write(BLOG_LIST_TEMPLATE.render(
