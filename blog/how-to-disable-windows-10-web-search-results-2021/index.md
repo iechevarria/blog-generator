@@ -1,13 +1,13 @@
 ---
-title: How to disable web results in Windows 10 search (as of 2021)
+title: How to disable web results in Windows 10 search (as of 2022)
 date: 2021-04-25
 ---
 
-_If this method stops working, please let me know so I can stop it from being included in search results. My email is on my [about](about.html) page._
+<p class="note">
+If this method stops working, please let me know so I can stop it from being included in search results. My email is on my <a href="about.html">about</a> page.
+</p>
 
-<br>
-
-Windows 10 includes web/Bing search results in its local search. Not great! There used to be a simple toggle to turn off web results. As of April 2021, that simple toggle is gone. Really not great!
+Windows 10 includes web/Bing search results in its local search. Not great! There used to be a simple toggle to turn off web results. As of January 2022, that simple toggle is gone. Really not great!
 
 This method from [a recent reply](https://www.tenforums.com/tutorials/25016-turn-off-search-online-include-web-results-windows-10-a-10.html) to an old thread in a random Windows forum is the only way I was able to turn off web results.
 
