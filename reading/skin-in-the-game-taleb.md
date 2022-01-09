@@ -16,7 +16,7 @@ Here are some good parts and bad parts:
 
 Taleb makes fun of things I don't like, and I of course like that.
 
-- He shows disdain for Sunstein and Thaler who "nudge" because they reason from first-order models. They're prone to mistaking group for aggregation of components - they think that single individual lets us understand a crowd or market. Taleb is basically making an argument against micro foundations for macro, which I of course like.
+- He shows disdain for Sunstein and Thaler and their "nudges." They reason from first-order models are are prone to mistaking groups for aggregation of components, thinking that a single individual lets us understand a crowd or market. Taleb is basically making fun of micro foundations for macro, which I of course like.
 - He craps on Pinker, which I of course like. (There are even more Pinker and Thaler jabs later on in the book, which I of course like.)
 - He includes a funny anecdote about molecular gastronomy. He says it sucks. Of course I like this.
 - He makes fun of people who talk about quantum mechanics outside of discussions of actual physics, which of course I like.
