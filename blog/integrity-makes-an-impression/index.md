@@ -1,5 +1,5 @@
 ---
-title: Integrity makes an impression
+title: A brief anecdote about a good leader
 date: 2021-11-07
 ---
 
