@@ -44,7 +44,7 @@ def generate_blog(
 
         # convert markdown to html
         post = frontmatter.load(os.path.join(source_dir, post_dir, "index.md"))
-        html = markdown(post.content)
+        html = markdown(post.content, extensions=["toc"])
         local_path = os.path.join(source_dir, post_dir, "index.html").replace("\\", "/")
         with open(os.path.join(dest_dir, local_path), "w+", encoding="utf-8") as f:
             f.write(BLOG_TEMPLATE.render(
