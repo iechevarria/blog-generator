@@ -45,7 +45,7 @@ The CSI workload is heavy, there's no getting around that. You have two to three
 
 Should you join CSI, you should expect to fall behind at some point. Don't let it psych you out. Keep showing up to class. Oz and Elliott won't get mad at you.
 
-If you're thorough, you can easily spend as much time on Bradfield as you do at a full-time job. It's absolutely not necessary, though – I only say this because a some people in my cohort did this for a few months.
+If you're thorough, you can easily spend as much time on Bradfield as you do at a full-time job. It's absolutely not necessary, though – I only say this because some people in my cohort did this for a few months.
 
 ## Value in interviews
 
