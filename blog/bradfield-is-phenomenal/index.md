@@ -11,6 +11,7 @@ This is a loose collection of thoughts about my time in the [Computer Science In
 
 Contents:
 
+- [My background and why I started taking Bradfield courses](blog/bradfield-is-phenomenal/index.html#my-background-and-why-i-started-taking-bradfield-courses)
 - [Who takes Bradfield courses?](blog/bradfield-is-phenomenal/index.html#who-takes-bradfield-courses)
 - [Quality of instruction](blog/bradfield-is-phenomenal/index.html#quality-of-instruction)
 - [Workload](blog/bradfield-is-phenomenal/index.html#workload)
@@ -19,9 +20,15 @@ Contents:
 - [Community](blog/bradfield-is-phenomenal/index.html#community)
 - [Money](blog/bradfield-is-phenomenal/index.html#money)
 - [Accreditation](blog/bradfield-is-phenomenal/index.html#accreditation)
-- [My background and why I started taking Bradfield courses](blog/bradfield-is-phenomenal/index.html#my-background-and-why-i-started-taking-bradfield-courses)
 - [Closing thoughts](blog/bradfield-is-phenomenal/index.html#closing-thoughts)
 
+## My background and why I started taking Bradfield courses
+
+I studied computer science and math at [William & Mary](https://www.wm.edu/), a public university in Virginia. I did well in school – I graduated _summa cum laude_, was inducted into Phi Beta Kappa, and got a computer science department award.
+
+But I graduated with a lot of gaps in my computer science knowledge. I couldn't tell you how a computer physically operated, or how a database worked, or what an operating system's responsibilities were, or anything at all about computer networks. Some of this was because I was unlucky with course selection. The bigger reason is that I didn't absorb as much because I was learning to program at the same time I was learning computer science. These are different skills. Fighting to get a grip on language syntax and conventions occupied most of my attention.
+
+After a few years of work, I was a much better programmer, but I started feeling the gaps in my computer science knowledge more acutely. I wondered why my code was slow and didn't have a good answer. I found out about Bradfield, and I signed up for a standalone course. It was more than I hoped it would be. I’ve now taken three standalone courses, and as of writing, I'm three modules into the CSI (about 1/3 of the way through). 
 
 ## Who takes Bradfield courses?
 
@@ -29,9 +36,9 @@ Students at Bradfield come from a broad range of backgrounds. Most are people wh
 
 ## Quality of instruction
 
-Oz and Elliott, the instructors at Bradfield, are phenomenal teachers. Their knowledge of the subject matter is encyclopedic, but they also take teaching seriously as its own skill. Oz seems to read _a lot_ of pedagogical theory, and Elliott continuously hones his courses. 
+Oz and Elliott, the instructors at Bradfield, are phenomenal teachers. Their knowledge of the subject matter is encyclopedic, but they also take teaching seriously as its own skill. Oz seems to read a lot of pedagogical theory (though he says not *too much* [[1]](blog/bradfield-is-phenomenal/index.html#note)), and Elliott continuously hones his courses. 
 
-The most important thing that Oz and Elliott teach is a mindset: that everything on a computer is knowable with a bit of effort. Need to figure out what's going on with a network? Open [Wireshark](https://www.wireshark.org/) and capture some packets. Not sure what a certain system call is doing? Check the [man page](https://en.wikipedia.org/wiki/Man_page). Don't know how a protocol works? Read the [RFC](https://www.rfc-editor.org/). Want to figure out how this language feature works? Go to the source code. When a student asks something and the instructor says "huh, I don't know," they find out and in the process show the rest of us how to answer our own questions.
+The most important thing that Oz and Elliott teach is a mindset: that everything on a computer is knowable with a bit of effort. Need to figure out what's going on with a network? Open [Wireshark](https://www.wireshark.org/) and capture some packets. Not sure what a certain system call is doing? Check the [man page](https://en.wikipedia.org/wiki/Man_page). Don't know how to use a protocol? Read the [RFC](https://www.rfc-editor.org/). Want to figure out how this language feature works? Go to the source code. When a student asks something and the instructor says "huh, I don't know," they find out and in the process show the rest of us how to answer our own questions.
 
 A small list of other things I like about instruction at Bradfield:
 
@@ -49,9 +56,9 @@ If you're thorough, you can easily spend as much time on Bradfield as you do at 
 
 ## Value in interviews
 
-Taking Bradfield courses makes you a stronger candidate when interviewing for jobs. Some of my classmates have interviewed for jobs at level _X_ and done so well that they received offers at level _X_ + 1. I got offers I previously would previously have been unattainable.
+Taking Bradfield courses makes you a stronger candidate when interviewing for jobs. Some of my classmates have interviewed for jobs at level _X_ and done so well that they received offers at level _X_ + 1. I got offers that previously would have been unattainable.
 
-An example: I interviewed at an autonomous vehicle company last year. One of my interviewers was clearly perplexed when our session started and said outright that someone must have made a mistake. I had previously only worked with Python, and his interview was about high-performance systems. "What's a Python programmer doing here," he said.
+An example: I interviewed at an autonomous vehicle company last year. One of my interviewers was clearly perplexed when our session started and said outright that someone must have made a mistake. I had professionally only worked with Python, and his interview was about high-performance systems. "What's a Python programmer doing here," he said.
 
 I said that while my experience was only Python and that I liked Python, I did care about performance and I understood why Python was slow. He said, fine, explain. So I used what I learned in Bradfield: I talked about how cache utilization in Python is bad for a few reasons (pointer-heavy data structures, everything is an object so takes more space, etc.). I was able to rattle off latency numbers to argue why this was so harmful.
 
@@ -65,7 +72,7 @@ None of this is to say that you can just sign up for Bradfield and never have to
 
 Bradfield's biggest benefit for me on the job has been simply having confidence that everything on a computer is knowable with a bit of effort. I can't give a dramatic example like I can with interviewing because real work isn't like interviewing, but I can tell you I'm faster and more capable, and that I have stronger engineering instincts.
 
-There are some benefits more immediately related to class material. Just last week, I debugged some microservices by reading network activity directly. One of my classmates sped up a critical process by at least a factor of 2 (maybe a lot more?) by applying knowledge straight from a course. Another upgraded his whole company from HTTP/1 to HTTP/2.
+There are some benefits more immediately related to class material. Just last week, I debugged some microservices by reading network activity directly. One of my classmates sped up a critical process by at least a factor of 2 (maybe a lot more?) by applying knowledge straight from a course. Another upgraded his whole company from HTTP/1.1 to HTTP/2.
 
 ## Community
 
@@ -87,16 +94,15 @@ Bradfield is not an accredited school. I think you can get a certificate of comp
 
 Seriously, though, we're lucky to work in an industry that [cares less about credentials than most others](https://ozwrites.com/masters/). There's some advantage to having a formal degree in computer science, but that largely ends after you get your first job.
 
-## My background and why I started taking Bradfield courses
-
-I studied computer science and math at [William & Mary](https://www.wm.edu/), a public university in Virginia. I did well in school – I graduated _summa cum laude_, was inducted into Phi Beta Kappa, and got a computer science department award.
-
-But I graduated with a lot of gaps in my computer science knowledge. I couldn't tell you how a computer physically worked, or how a database worked, or what an operating system's responsibilities were, or anything at all about computer networks. Some of this was because I was unlucky with course selection. The bigger reason is that I didn't absorb as much because I was learning to program at the same time I was learning computer science. These are different skills. Fighting to get a grip on language syntax and conventions occupied most of my attention.
-
-After a few years of working, I was a much better programmer, but I started feeling the gaps in my computer science knowledge more acutely. I wondered why my code was slow and didn't have a good answer. I found out about Bradfield, and I signed up for a standalone course. It was more than I hoped it would be. I’ve now taken three standalone courses, and as of writing, I'm three modules into the CSI. 
-
 ## Closing thoughts
 
 If you're a software engineer, you'll likely benefit tremendously from courses at Bradfield. This stuff works.
 
-If you have questions about Bradfield, you should reach out to them via their contact information on the [Bradfield website](https://bradfieldcs.com/). If you're looking for a student perspective, I'm happy to answer any questions via email at [ivan@echevarria.io](sendto:ivan@echevarria.io).
+If you have questions about Bradfield, you should reach out to them via their contact information on the [Bradfield website](https://bradfieldcs.com/). If you're looking for a student perspective, I'm happy to answer any questions via email at [ivan@echevarria.io](mailto:ivan@echevarria.io).
+
+<br>
+<br>
+
+[1]<i id="note">
+Oz disputes that he read a lot on pedagogy: "[F]or the record, I don’t read up a whole bunch on pedagogy (some people \*really\* go overboard) but I do read some and do try to get actively better at teaching so I guess it’s the same sentiment :)"
+</i>
