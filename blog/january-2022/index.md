@@ -5,7 +5,7 @@ date: 2022-02-05
 
 January was fun. I published a [blog post about streaming versions of the Matrix](blog/the-matrix-looks-different-hulu-hbo-max/index.html), and it unexpectedly blew up. I got a ton of traffic from Google – I'm still not quite sure what people were searching for that brought them to my site. A Japanese website published [a translation](https://gigazine.net/news/20220108-matrix-hulu-hbo-max-color/) and called me a computer scientist. Delightful.
 
-I also continued the [Bradfield CSI](https://bradfieldcs.com/csi/). January covered computer networking, and it was, as Bradfield always is, excellent. I'm very eagerly looking forward to February's module: distributed systems.
+I also continued the [Bradfield CSI](https://bradfieldcs.com/csi/). January covered computer networking, and it was, as Bradfield always is, excellent. I'm very eagerly looking forward to February's module: data structures for storage and retrieval.
 
 ## Reading
 
