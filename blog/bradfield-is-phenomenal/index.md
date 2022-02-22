@@ -20,6 +20,7 @@ Contents:
 - [Community](blog/bradfield-is-phenomenal/index.html#community)
 - [Money](blog/bradfield-is-phenomenal/index.html#money)
 - [Accreditation](blog/bradfield-is-phenomenal/index.html#accreditation)
+- [Other students' reviews of Bradfield](blog/bradfield-is-phenomenal/index.html#other-students-reviews-of-bradfield)
 - [Closing thoughts](blog/bradfield-is-phenomenal/index.html#closing-thoughts)
 
 ## My background and why I started taking Bradfield courses
@@ -93,6 +94,14 @@ Obligatory disclaimer: the labor market is unusually hot right now so maybe don'
 Bradfield is not an accredited school. I think you can get a certificate of completion if you ask for one? I don't know, whatever. That's not why you do Bradfield. You do Bradfield to attain mastery, to actually get better in real life. You do Bradfield because [this stuff works](https://twitter.com/oznova_/status/1479254530470518786).
 
 Seriously, though, we're lucky to work in an industry that [cares less about credentials than most others](https://ozwrites.com/masters/). There's some advantage to having a formal degree in computer science, but that largely ends after you get your first job.
+
+## Other students' reviews of Bradfield
+
+You don't just take it from me that Bradfield is great – other students have written even more thorough accounts of their time at Bradfield:
+
+- Rohan wrote [My experience of the Bradfield Computer Science Intensive](https://gist.github.com/RP-3/67c77a81274ba6ad4db9e27af8d014cc)
+- Julius wrote [My Thoughts on Bradfield](https://gist.github.com/rouxcaesar/9eced2261681efc268789f3fb2c8f958)
+- Clifford wrote [My Experience at Bradfield CS](https://gist.github.com/cliffordfajardo/03e580083a3b497e48fa52bfe3d6c04b)
 
 ## Closing thoughts
 
