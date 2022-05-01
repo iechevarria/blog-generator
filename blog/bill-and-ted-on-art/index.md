@@ -21,7 +21,7 @@ Recent history is littered with such failure. Kurt Vonnegut said this about arti
 
 If your highest priority is solving a concrete problem like hunger or poverty, art is the wrong tool. "[P]oems and pictures cannot by themselves save anyone." [[1]](blog/bill-and-ted-on-art/index.html#note-1) At some point, you need to actually move food or money or whatever else.
 
-None of this is to say that art is useless or not worthwhile [[2]](blog/bill-and-ted-on-art/index.html#note-2). Others have written better than I can about art's value [[3]](blog/bill-and-ted-on-art/index.html#note-2), but put simply, art reveals beauty that clarifies life, and it helps us endure. The best art is made with knowledge of its power – and its limits.
+None of this is to say that art is useless or not worthwhile [[2]](blog/bill-and-ted-on-art/index.html#note-2). Others have written better than I can about art's value [[3]](blog/bill-and-ted-on-art/index.html#note-3), but put simply, art reveals beauty that clarifies life, and it helps us endure. The best art is made with knowledge of its power – and its limits.
 
 <br>
 <br>
