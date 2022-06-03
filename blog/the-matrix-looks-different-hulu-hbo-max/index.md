@@ -1,6 +1,7 @@
 ---
 title: The Matrix looks dramatically different on Hulu versus on HBO Max
 date: 2022-01-02
+image: split.jpg
 ---
 
 ![Comparison of HBO Max and Hulu ](blog/the-matrix-looks-different-hulu-hbo-max/split.jpg)

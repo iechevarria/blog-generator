@@ -1,6 +1,7 @@
 ---
 title: Flowers make a nice gift
 date: 2021-09-04
+image: sunflowers.jpg
 ---
 
 ![photograph of sunflowers](blog/flowers-make-a-nice-gift/sunflowers.jpg)

@@ -1,6 +1,7 @@
 ---
 title: How to get pastel colors in your photos
 date: 2018-02-18
+image: 01.jpg
 ---
 
 <img src="blog/how-to-get-pastel-colors-in-photos/01.jpg" alt="Pastel-colored photo in San Mateo, California"/>

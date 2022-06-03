@@ -38,6 +38,7 @@ def generate_blog(
         # copy non-post directory contents over
         _, _, files = next(os.walk(os.path.join(source_dir, post_dir)))
         non_post_files = [f for f in files if f != "index.md"]
+        image_files = [f for f in files if f.endswith("jpg") or f.endswith("png")]
         for f in non_post_files:
             shutil.copyfile(
                 os.path.join(source_dir, post_dir, f),
@@ -47,6 +48,13 @@ def generate_blog(
         # convert markdown to html
         post = frontmatter.load(os.path.join(source_dir, post_dir, "index.md"))
         html = markdown(post.content, extensions=["toc"])
+        
+        # get image for open graph / twitter
+        if "image" in post:
+            image = post["image"]
+            assert image in image_files
+            post["image"] = os.path.join("https://www.echevarria.io/", source_dir, post_dir, image)
+
         local_path = os.path.join(source_dir, post_dir, "index.html").replace("\\", "/")
         with open(os.path.join(dest_dir, local_path), "w+", encoding="utf-8") as f:
             f.write(BLOG_TEMPLATE.render(
@@ -55,7 +63,12 @@ def generate_blog(
 
         # get metadata from post
         post_metas.append(
-            {"title": post["title"], "url": local_path, "date": post["date"], "content": html}
+            {
+                "title": post["title"],
+                "url": local_path,
+                "date": post["date"],
+                "content": html,
+            }
         )
 
     # reverse chronological order for blog index page

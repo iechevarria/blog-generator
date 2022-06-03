@@ -1,6 +1,7 @@
 ---
 title: Creating and morphing Lego faces with neural networks
 date: 2020-02-03
+image: morph-example-2.jpg
 ---
 
 <img class="img-no-pad" src="blog/lego-face-vae/face-morph-1.png" alt="Lego face morph visualization"/>

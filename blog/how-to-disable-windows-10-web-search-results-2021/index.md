@@ -1,6 +1,7 @@
 ---
 title: How to disable web results in Windows 10 search (as of 2022)
 date: 2021-04-25
+image: create-new-dword.png
 ---
 
 <p class="note">

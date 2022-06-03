@@ -1,6 +1,7 @@
 ---
 title: Consistent daily price oscillations on the Steam Community Market
 date: 2021-12-26
+image: steam.png
 ---
 
 <a href="blog/cs-go-price-oscillation/steam.png">

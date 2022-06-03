@@ -1,6 +1,7 @@
 ---
 title: An interesting way to pack bytes into a MIDI SysEx message
 date: 2021-12-21
+image: scan1.png
 ---
 
 Here’s a little thought experiment: how would you transmit 8-bit bytes via messages that let you encode only 7 bits at a time?

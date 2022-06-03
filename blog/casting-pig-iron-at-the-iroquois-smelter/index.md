@@ -1,6 +1,7 @@
 ---
 title: Casting pig iron at the Iroquois smelter
 date: 2021-11-21
+image: pig-iron.jpg
 ---
 
 ![Pig iron smelter](blog/casting-pig-iron-at-the-iroquois-smelter/pig-iron.jpg)
