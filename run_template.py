@@ -3,7 +3,6 @@
 import os
 import re
 import shutil
-from collections import namedtuple
 from datetime import datetime
 from email import utils
 from xml.sax.saxutils import escape as xml_escape
