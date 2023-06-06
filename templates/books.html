@@ -3,7 +3,9 @@
 <div class="blog-post">
   <h1>{{ title }} by {{ author }}</h1>
   <h4>Rating: {{ "★" * rating }}</h4>
+  {% if notes %}
   <div class="notes-link note">You can find my complete personal notes on <i>{{ title }}</i> at <a href={{ notes }}>this link</a>.</div>
+  {% endif %}
   {{ content | indent(2) | safe }}
 </div>
 {%- endblock %}
