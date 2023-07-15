@@ -1,6 +1,6 @@
 ---
 title: In Praise of Shadows
-author: Jun'ichirō Tanizaki (translated by Thomas J. Harper and Edward G. Seidensticker)
+author: Jun'ichirō Tanizaki, translated by Thomas J. Harper and Edward G. Seidensticker
 year: 1933
 isbn: 9780918172020
 rating: 4
