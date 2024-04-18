@@ -37,7 +37,7 @@ def generate_blog(
         # copy non-post directory contents over
         _, _, files = next(os.walk(os.path.join(source_dir, post_dir)))
         non_post_files = [f for f in files if f != "index.md"]
-        image_files = [f for f in files if f.endswith("jpg") or f.endswith("png")]
+        image_files = [f for f in files if f.endswith("jpg") or f.endswith("png") or f.endswith("jpeg")]
         for f in non_post_files:
             shutil.copyfile(
                 os.path.join(source_dir, post_dir, f),
