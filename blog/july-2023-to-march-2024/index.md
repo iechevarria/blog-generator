@@ -33,14 +33,14 @@ My wife and I go to Hopkins, MN, a suburb of Minneapolis for a wedding. I am tot
 
 At the end of the month, my wife and I go to her first ultrasound.
 
-![ultrasound image](blog/july-2023-to-july-2024/ultrasound.jpeg)
+![ultrasound image](blog/july-2023-to-march-2024/ultrasound.jpeg)
 
 
 ## September 2023
 
 <div style="text-align: center;">
-  <img class="img-horiz" style="width: 45%;" src="blog/july-2023-to-july-2024/dorchester.jpeg" alt=""/>
-  <img class="img-horiz" style="width: 45%;" src="blog/july-2023-to-july-2024/camden.jpeg" alt=""/>
+  <img class="img-horiz" style="width: 45%;" src="blog/july-2023-to-march-2024/dorchester.jpeg" alt=""/>
+  <img class="img-horiz" style="width: 45%;" src="blog/july-2023-to-march-2024/camden.jpeg" alt=""/>
 </div>
 
 My wife and I finally go on our honeymoon to London and Dorchester. We stay in Tufnell Park in London, a quiet, family-friendly neighborhood that is exactly our pace. Her morning sickness is helped primarily by eating and walking; fortunately, there is plenty of opportunity to eat and walk in London.
@@ -109,8 +109,8 @@ Songs of the month:  "Lady Burning Sky" by Neutron 9000 and "Kendo" by Subsided.
 ## January 2024
 
 <div style="text-align: center;">
-  <img class="img-horiz" style="width: 45%;" src="blog/july-2023-to-july-2024/bike-reservoir.jpeg" alt=""/>
-  <img class="img-horiz" style="width: 45%;" src="blog/july-2023-to-july-2024/brompton.jpeg" alt=""/>
+  <img class="img-horiz" style="width: 45%;" src="blog/july-2023-to-march-2024/bike-reservoir.jpeg" alt=""/>
+  <img class="img-horiz" style="width: 45%;" src="blog/july-2023-to-march-2024/brompton.jpeg" alt=""/>
 </div>
 
 I buy a Brompton, a fancy folding bicycle, for commuting. Some months ago I was assigned to a different office farther from the train station, and now my commute takes too long, around an hour on each end. I do the math on how many hours I'd save in 6 months of ownership, and it pencils out very easily.
@@ -156,8 +156,8 @@ I start the month in Virginia for my grandfather's funeral. A close friend of my
 I return, and the next week my wife and I have family and friends over for a get-together, a not-baby-shower.
 
 <div style="text-align: center;">
-  <img class="img-horiz" style="width: 45%;" src="blog/july-2023-to-july-2024/waymo.jpeg" alt=""/>
-  <img class="img-horiz" style="width: 45%;" src="blog/july-2023-to-july-2024/car-seat.jpeg" alt=""/>
+  <img class="img-horiz" style="width: 45%;" src="blog/july-2023-to-march-2024/waymo.jpeg" alt=""/>
+  <img class="img-horiz" style="width: 45%;" src="blog/july-2023-to-march-2024/car-seat.jpeg" alt=""/>
 </div>
 
 One evening after work, I install the car seat we bought in January. It's all feeling very real.
