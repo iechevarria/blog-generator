@@ -1,5 +1,5 @@
 ---
-title: July 2023 - March 2024
+title: July 2023 – March 2024
 date: 2025-06-07
 image: ultrasound.jpeg
 ---
